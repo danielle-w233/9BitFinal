@@ -47,7 +47,7 @@ password: password
 
 USING THE APP
 
-There are four buttons on the left side: dashboard brings the user to the home page of the app that displays transactions and the graphs of
-user's spending. Add transactions takes the user to a page where they can add a new transaction. Settings takes the user to the settings page which displays the achievements the user has earned. The logout button logs the user out of the application.
+There are four buttons on the left side: Dashboard brings the user to the home page of the app that displays transactions and the graphs of
+user's spending. Transactions takes the user to a page where they can add a new transaction. Settings takes the user to the settings page which displays the achievements the user has earned. The logout button logs the user out of the application.
 
 Dependencies: merged pull requests from group member GitHub repositories
